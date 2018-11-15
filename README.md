@@ -6,6 +6,10 @@ Laravel を利用して TODO アプリのアプリケーションを作成しま
 
 https://basic-task-list.herokuapp.com/
 
+## ドキュメント
+
+http://laravel.com/
+
 ## 内容
 
 - Laravel アプリケーションの環境構築
