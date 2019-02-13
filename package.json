@@ -1,24 +1,15 @@
 {
-  "name": "jquery",
+  "name": "book_laravel",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "repository": "https://github.com/lec-cafe/book_laravel",
+  "author": "mikakane <t.goto@chatbox-inc.com>",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "gitbook serve"
+    "docs:dev": "vuepress dev books",
+    "docs:build": "vuepress build books"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lec-cafe/book_jquery.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lec-cafe/book_jquery/issues"
-  },
-  "homepage": "https://github.com/lec-cafe/book_jquery#readme",
-  "dependencies": {
-    "gitbook": "^2.6.9",
-    "gitbook-cli": "^2.3.2"
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.37"
   }
 }
