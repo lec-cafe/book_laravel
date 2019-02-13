@@ -3,7 +3,7 @@
 
 [build]
   publish = "_book"
-  command = "npm run docs:dev"
+  command = "npm run docs:build"
 
 [build.environment]
 # Production context: All deploys to the main
