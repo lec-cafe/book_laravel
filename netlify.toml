@@ -2,7 +2,7 @@
   ID="041bf1e8-16e0-41bc-90f3-d9aca719a814"
 
 [build]
-  publish = "dist"
+  publish = "books/.vuepress/dist"
   command = "npm run docs:build"
 
 [build.environment]

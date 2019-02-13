@@ -15,4 +15,4 @@ yarn-error.log
 .phpunit.result.cache
 database.sqlite
 
-/dist
+books/.vuepress/dist
