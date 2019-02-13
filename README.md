@@ -6,6 +6,8 @@ Laravel を利用して TODO アプリのアプリケーションを作成しま
 
 https://basic-task-list.herokuapp.com/
 
+サーバ構成等は Wiki を参照
+
 ## ドキュメント
 
 http://laravel.com/
